@@ -1,0 +1,3 @@
+# p5.play-boilerplate
+Boiler plate for p5.play
+Last year Johnny was in the last minutes of the game, he only needed one more goal but but if he missed this shot he'd lose it all. An announcer went "Three, Two, One, SHOOT!" and Johnny took the shot, it was perfectly on target and it got past the defenders. It was about to go in, but it came to a rolling stop just in front of the goal. Johnny ran away in anger, vowing he'd win this year. Now, he's back and ready to win it all.
